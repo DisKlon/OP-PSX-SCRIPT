@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DisKlon/OP-PSX-SCRIPT/main/RAW%20Script%20File"))()
